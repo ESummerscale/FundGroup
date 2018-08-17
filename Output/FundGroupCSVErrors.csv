@@ -1,0 +1,6 @@
+Errors found in ..\Output\FundGroupTemplateForTest.xlsx
+Error in column Period; row 4 -- Wrong data type - "h" should be <class 'datetime.datetime'> NOT <class 'str'>
+Error in column MasterBusinessLineId; row 4 -- Wrong data type - "2.9" should be <class 'int'> NOT <class 'float'>
+Error in column MasterFundGroupFriendlyName; row 4 -- Mandatory field left empty.
+Error in column Currency; row 4 -- Mandatory field left empty.
+Error in row 4 - no valid ThirdParty values entered.
